@@ -1,0 +1,75 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Warmod",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warmod"
+    },
+    {
+      "name": "Camouflagelether",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflagelether"
+    },
+    {
+      "name": "Ammo",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ammo"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "shotting",
+      "files": [
+        "shotting"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "zh_tw": {
+      "itemGroup.tabwarmod": "Warmod",
+      "item.warmod.camouflagelether": "Camouflage Lether",
+      "subtitles.shotting": "",
+      "item.warmod.ammo": "Ammo"
+    },
+    "en_us": {
+      "itemGroup.tabwarmod": "Warmod",
+      "item.warmod.camouflagelether": "Camouflage Lether",
+      "subtitles.shotting": "",
+      "item.warmod.ammo": "Ammo"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "warmod",
+    "modName": "Warmod",
+    "version": "1.0.0",
+    "author": "Daniel Chen, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.warmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

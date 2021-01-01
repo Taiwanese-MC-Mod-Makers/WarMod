@@ -1,0 +1,11 @@
+{
+  "shotting": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "warmod:shotting",
+        "stream": false
+      }
+    ]
+  }
+}
