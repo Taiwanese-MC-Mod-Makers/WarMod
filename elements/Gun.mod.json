@@ -14,7 +14,7 @@
     "ammoItem": {
       "value": "CUSTOM:Ammo"
     },
-    "shootConstantly": false,
+    "shootConstantly": true,
     "usageCount": 100,
     "actionSound": {
       "value": "CUSTOM:shotting"
@@ -23,8 +23,8 @@
     "animation": "none",
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "bulletPower": 1.4000000000000001,
-    "bulletDamage": 5.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 2.0,
     "bulletKnockback": 5,
     "bulletParticles": true,
     "bulletIgnitesFire": false,

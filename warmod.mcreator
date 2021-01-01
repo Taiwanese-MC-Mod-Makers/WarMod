@@ -98,15 +98,6 @@
       "registry_name": "camouflaging"
     },
     {
-      "name": "Test",
-      "type": "overlay",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "test"
-    },
-    {
       "name": "ReloadGun",
       "type": "keybind",
       "sortid": 12,
@@ -114,15 +105,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reload_gun"
-    },
-    {
-      "name": "Bunker1",
-      "type": "structure",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "bunker_1"
     },
     {
       "name": "DirtSlab",
