@@ -1,7 +1,11 @@
 {
+  "item.warmod.camouflage_armor_helmet": "Camouflage Helmet",
   "itemGroup.tabwarmod": "Warmod",
   "item.warmod.camouflagelether": "Camouflage Lether",
+  "item.warmod.camouflage_armor_chestplate": "Camouflage Chestplate",
+  "item.warmod.camouflage_armor_boots": "Camouflage Boots",
   "subtitles.shotting": "",
   "item.warmod.ammo": "Ammo",
+  "item.warmod.camouflage_armor_leggings": "Camouflage Leggings",
   "item.warmod.gun": "Gun"
 }

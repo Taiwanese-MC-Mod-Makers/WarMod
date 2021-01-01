@@ -36,6 +36,57 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gun"
+    },
+    {
+      "name": "CamouflageArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflage_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CamouflageArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflage_armor_helmet_recipe"
+    },
+    {
+      "name": "CamouflageArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflage_armor_body_recipe"
+    },
+    {
+      "name": "CamouflageArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflage_armor_leggings_recipe"
+    },
+    {
+      "name": "CamouflageArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflage_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -51,17 +102,25 @@
   ],
   "language_map": {
     "zh_tw": {
+      "item.warmod.camouflage_armor_helmet": "Camouflage Helmet",
       "itemGroup.tabwarmod": "Warmod",
       "item.warmod.camouflagelether": "Camouflage Lether",
+      "item.warmod.camouflage_armor_chestplate": "Camouflage Chestplate",
+      "item.warmod.camouflage_armor_boots": "Camouflage Boots",
       "subtitles.shotting": "",
       "item.warmod.ammo": "Ammo",
+      "item.warmod.camouflage_armor_leggings": "Camouflage Leggings",
       "item.warmod.gun": "Gun"
     },
     "en_us": {
+      "item.warmod.camouflage_armor_helmet": "Camouflage Helmet",
       "itemGroup.tabwarmod": "Warmod",
       "item.warmod.camouflagelether": "Camouflage Lether",
+      "item.warmod.camouflage_armor_chestplate": "Camouflage Chestplate",
+      "item.warmod.camouflage_armor_boots": "Camouflage Boots",
       "subtitles.shotting": "",
       "item.warmod.ammo": "Ammo",
+      "item.warmod.camouflage_armor_leggings": "Camouflage Leggings",
       "item.warmod.gun": "Gun"
     }
   },

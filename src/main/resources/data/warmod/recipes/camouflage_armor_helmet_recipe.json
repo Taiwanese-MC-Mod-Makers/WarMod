@@ -1,0 +1,29 @@
+{
+  "group": "warmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "warmod:camouflagelether"
+    },
+    "1": {
+      "item": "warmod:camouflagelether"
+    },
+    "2": {
+      "item": "warmod:camouflagelether"
+    },
+    "3": {
+      "item": "warmod:camouflagelether"
+    },
+    "5": {
+      "item": "warmod:camouflagelether"
+    }
+  },
+  "result": {
+    "item": "warmod:camouflage_armor_helmet",
+    "count": 1
+  }
+}
