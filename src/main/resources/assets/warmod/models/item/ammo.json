@@ -1,6 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "warmod:custom/bullet",
   "textures": {
-    "layer0": "warmod:items/ammo"
+    "0": "warmod:blocks/bullet_texture",
+    "particle": "warmod:items/ammo"
   }
 }

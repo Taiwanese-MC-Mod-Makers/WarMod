@@ -1,0 +1,37 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "ammo",
+    "customModelName": "Normal",
+    "name": "Gun",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Warmod"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Ammo"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:shotting"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.4000000000000001,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Ammo"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

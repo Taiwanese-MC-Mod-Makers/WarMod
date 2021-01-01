@@ -7,7 +7,7 @@ version="1.0.0"
 displayName="Warmod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Daniel Chen, MCreator"
+authors="Daniel Chen,"
 
 [[dependencies.warmod]]
     modId="minecraft"

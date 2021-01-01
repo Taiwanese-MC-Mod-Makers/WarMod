@@ -13,7 +13,7 @@ import net.mcreator.warmod.WarmodModElements;
 @WarmodModElements.ModElement.Tag
 public class WarmodItemGroup extends WarmodModElements.ModElement {
 	public WarmodItemGroup(WarmodModElements instance) {
-		super(instance, 1);
+		super(instance, 3);
 	}
 
 	@Override

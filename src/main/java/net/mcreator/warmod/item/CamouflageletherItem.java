@@ -16,7 +16,7 @@ public class CamouflageletherItem extends WarmodModElements.ModElement {
 	@ObjectHolder("warmod:camouflagelether")
 	public static final Item block = null;
 	public CamouflageletherItem(WarmodModElements instance) {
-		super(instance, 2);
+		super(instance, 1);
 	}
 
 	@Override

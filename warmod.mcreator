@@ -4,7 +4,7 @@
     {
       "name": "Warmod",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "Camouflagelether",
       "type": "item",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,11 +22,20 @@
     {
       "name": "Ammo",
       "type": "item",
-      "sortid": 3,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "ammo"
+    },
+    {
+      "name": "Gun",
+      "type": "gun",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun"
     }
   ],
   "variable_elements": [],
@@ -45,20 +54,22 @@
       "itemGroup.tabwarmod": "Warmod",
       "item.warmod.camouflagelether": "Camouflage Lether",
       "subtitles.shotting": "",
-      "item.warmod.ammo": "Ammo"
+      "item.warmod.ammo": "Ammo",
+      "item.warmod.gun": "Gun"
     },
     "en_us": {
       "itemGroup.tabwarmod": "Warmod",
       "item.warmod.camouflagelether": "Camouflage Lether",
       "subtitles.shotting": "",
-      "item.warmod.ammo": "Ammo"
+      "item.warmod.ammo": "Ammo",
+      "item.warmod.gun": "Gun"
     }
   },
   "workspaceSettings": {
     "modid": "warmod",
     "modName": "Warmod",
     "version": "1.0.0",
-    "author": "Daniel Chen, MCreator",
+    "author": "Daniel Chen,",
     "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
