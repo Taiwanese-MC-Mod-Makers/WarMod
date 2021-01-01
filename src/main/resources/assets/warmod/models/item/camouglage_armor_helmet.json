@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "warmod:items/camouflage_head"
+    "layer0": "warmod:items/camouflage__helmet"
   }
 }

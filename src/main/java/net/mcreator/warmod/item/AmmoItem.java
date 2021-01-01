@@ -16,7 +16,7 @@ public class AmmoItem extends WarmodModElements.ModElement {
 	@ObjectHolder("warmod:ammo")
 	public static final Item block = null;
 	public AmmoItem(WarmodModElements instance) {
-		super(instance, 2);
+		super(instance, 3);
 	}
 
 	@Override

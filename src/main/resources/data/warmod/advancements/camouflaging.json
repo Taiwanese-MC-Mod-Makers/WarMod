@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "warmod:camouflagelether"
+    },
+    "title": {
+      "translate": "advancements.camouflaging.title"
+    },
+    "description": {
+      "translate": "advancements.camouflaging.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "camouflaging": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "warmod:camouflagelether"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

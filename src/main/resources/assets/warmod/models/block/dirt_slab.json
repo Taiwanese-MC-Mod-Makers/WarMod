@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "warmod:blocks/266df7ab6322509273a9cddeeee5a3e7",
+    "top": "warmod:blocks/266df7ab6322509273a9cddeeee5a3e7",
+    "side": "warmod:blocks/266df7ab6322509273a9cddeeee5a3e7"
+  }
+}

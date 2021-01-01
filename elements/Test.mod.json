@@ -1,0 +1,23 @@
+{
+  "_fv": 13,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Test",
+          "color": {
+            "value": -5263441,
+            "falpha": 0.0
+          },
+          "name": "Test",
+          "x": 405,
+          "y": 1
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

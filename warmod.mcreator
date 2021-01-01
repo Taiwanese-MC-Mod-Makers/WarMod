@@ -4,7 +4,7 @@
     {
       "name": "Warmod",
       "type": "tab",
-      "sortid": 3,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -22,7 +22,7 @@
     {
       "name": "Ammo",
       "type": "item",
-      "sortid": 2,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -36,21 +36,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gun"
-    },
-    {
-      "name": "CamouflageArmor",
-      "type": "armor",
-      "sortid": 5,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "camouflage_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
     },
     {
       "name": "CamouflageArmorHelmetRecipe",
@@ -87,6 +72,66 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "camouflage_armor_boots_recipe"
+    },
+    {
+      "name": "CamouglageArmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouglage_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Camouflaging",
+      "type": "achievement",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "camouflaging"
+    },
+    {
+      "name": "Test",
+      "type": "overlay",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "ReloadGun",
+      "type": "keybind",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reload_gun"
+    },
+    {
+      "name": "Bunker1",
+      "type": "structure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bunker_1"
+    },
+    {
+      "name": "DirtSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_slab"
     }
   ],
   "variable_elements": [],
@@ -102,26 +147,34 @@
   ],
   "language_map": {
     "zh_tw": {
-      "item.warmod.camouflage_armor_helmet": "Camouflage Helmet",
       "itemGroup.tabwarmod": "Warmod",
+      "item.warmod.camouglage_armor_leggings": "Camouglage Leggings",
+      "item.warmod.camouglage_armor_boots": "Camouglage Boots",
       "item.warmod.camouflagelether": "Camouflage Lether",
-      "item.warmod.camouflage_armor_chestplate": "Camouflage Chestplate",
-      "item.warmod.camouflage_armor_boots": "Camouflage Boots",
-      "subtitles.shotting": "",
       "item.warmod.ammo": "Ammo",
-      "item.warmod.camouflage_armor_leggings": "Camouflage Leggings",
-      "item.warmod.gun": "Gun"
+      "block.warmod.dirt_slab": "Dirt Slab",
+      "item.warmod.gun": "Gun",
+      "item.warmod.camouglage_armor_helmet": "Camouglage Helmet",
+      "advancements.camouflaging.title": "Camouflaging",
+      "subtitles.shotting": "",
+      "key.mcreator.reload_gun": "Reload Gun",
+      "item.warmod.camouglage_armor_chestplate": "Camouglage Chestplate",
+      "advancements.camouflaging.descr": "Camouflaging"
     },
     "en_us": {
-      "item.warmod.camouflage_armor_helmet": "Camouflage Helmet",
       "itemGroup.tabwarmod": "Warmod",
+      "item.warmod.camouglage_armor_leggings": "Camouglage Leggings",
+      "item.warmod.camouglage_armor_boots": "Camouglage Boots",
       "item.warmod.camouflagelether": "Camouflage Lether",
-      "item.warmod.camouflage_armor_chestplate": "Camouflage Chestplate",
-      "item.warmod.camouflage_armor_boots": "Camouflage Boots",
-      "subtitles.shotting": "",
       "item.warmod.ammo": "Ammo",
-      "item.warmod.camouflage_armor_leggings": "Camouflage Leggings",
-      "item.warmod.gun": "Gun"
+      "block.warmod.dirt_slab": "Dirt Slab",
+      "item.warmod.gun": "Gun",
+      "item.warmod.camouglage_armor_helmet": "Camouglage Helmet",
+      "advancements.camouflaging.title": "Camouflaging",
+      "subtitles.shotting": "",
+      "key.mcreator.reload_gun": "Reload Gun",
+      "item.warmod.camouglage_armor_chestplate": "Camouglage Chestplate",
+      "advancements.camouflaging.descr": "Camouflaging"
     }
   },
   "workspaceSettings": {

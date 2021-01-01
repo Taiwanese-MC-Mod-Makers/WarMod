@@ -3,21 +3,21 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "camouflage_head",
+    "textureHelmet": "camouflage__helmet",
     "enableBody": true,
     "textureBody": "camouflage__body",
     "enableLeggings": true,
-    "textureLeggings": "camouflage_leggings",
+    "textureLeggings": "camouflage__legs",
     "enableBoots": true,
     "textureBoots": "camouflage__boots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Warmod"
     },
     "armorTextureFile": "camouflage",
-    "helmetName": "Camouflage Helmet",
-    "bodyName": "Camouflage Chestplate",
-    "leggingsName": "Camouflage Leggings",
-    "bootsName": "Camouflage Boots",
+    "helmetName": "Camouglage Helmet",
+    "bodyName": "Camouglage Chestplate",
+    "leggingsName": "Camouglage Leggings",
+    "bootsName": "Camouglage Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -38,10 +38,10 @@
     "bootsModelPartL": "Boots L",
     "bootsModelPartR": "Boots R",
     "bootsModelTexture": "From armor",
-    "maxDamage": 15,
+    "maxDamage": 25,
     "damageValueHelmet": 2,
-    "damageValueBody": 5,
-    "damageValueLeggings": 6,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
     "damageValueBoots": 2,
     "enchantability": 9,
     "toughness": 0.0,
@@ -50,7 +50,7 @@
     },
     "repairItems": [
       {
-        "value": ""
+        "value": "CUSTOM:Camouflagelether"
       }
     ]
   }
