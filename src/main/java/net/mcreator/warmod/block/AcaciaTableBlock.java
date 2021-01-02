@@ -39,11 +39,11 @@ import java.util.List;
 import java.util.Collections;
 
 @WarmodModElements.ModElement.Tag
-public class DarkOakTableBlock extends WarmodModElements.ModElement {
-	@ObjectHolder("warmod:dark_oak_table")
+public class AcaciaTableBlock extends WarmodModElements.ModElement {
+	@ObjectHolder("warmod:acacia_table")
 	public static final Block block = null;
-	public DarkOakTableBlock(WarmodModElements instance) {
-		super(instance, 15);
+	public AcaciaTableBlock(WarmodModElements instance) {
+		super(instance, 17);
 	}
 
 	@Override
@@ -63,7 +63,7 @@ public class DarkOakTableBlock extends WarmodModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.WOOD).sound(SoundType.WOOD).hardnessAndResistance(1f, 10f).lightValue(0).notSolid());
 			this.setDefaultState(this.stateContainer.getBaseState().with(FACING, Direction.NORTH).with(WATERLOGGED, false));
-			setRegistryName("dark_oak_table");
+			setRegistryName("acacia_table");
 		}
 
 		@Override

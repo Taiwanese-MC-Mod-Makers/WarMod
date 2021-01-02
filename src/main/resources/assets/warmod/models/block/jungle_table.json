@@ -1,0 +1,8 @@
+{
+  "parent": "warmod:custom/table",
+  "textures": {
+    "all": "warmod:blocks/jungle_planks",
+    "particle": "warmod:blocks/jungle_planks",
+    "0": "warmod:blocks/dark_oak_plank"
+  }
+}
